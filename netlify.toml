@@ -4,7 +4,7 @@
     force=true
     status=200
 
-    [[redirects]]
+[[redirects]]
     from="/version/1-1-0"
     to="https://1-1-0.netlify-se-test.com"
     force=true
