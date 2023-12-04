@@ -1,0 +1,20 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Wandsworth",
+			"country": {
+				"code": "GB",
+				"name": "United Kingdom"
+			},
+			"subdivision": {
+				"code": "ENG",
+				"name": "England"
+			},
+			"timezone": "Europe/London",
+			"latitude": 51.4412,
+			"longitude": -0.1833
+		},
+		"timestamp": 1701709005809
+	},
+	"siteId": "6a524a84-02b1-46ca-a71d-bea9ba2d72e2"
+}

@@ -1,0 +1,5 @@
+[[redirects]]
+    from="/version/1-0-0/*"
+    to="https://1-0-0.version.netlify-se-test.com/:splat"
+    force=true
+    status=200
